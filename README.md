@@ -18,6 +18,13 @@ I'm a portuguese Informatics Students with a love for game development
 
 | Class     | Name | Language | Description                                 | Grade |
 |-----------|------|----------|---------------------------------------------|-------|
+| AC | [WNBA Playoffs](https://github.com/Tiago27Cruz/Predict-WNBA-Playoff-AI-Model) | Python | Model to predict WNBA Playoffs | 18.4 |
+| DS | [LavraAI](https://github.com/FEUP-MEIC-DS-2024-25/T05_G03) | JS | VS Control-Flow-Graph AI chatbot extension | 19.7 |
+| PRI | [One Piece Search Engine](https://github.com/Tiago27Cruz/One-Piece-Search-Engine) | Python | One Piece Search Engine | 17.3 |
+| SDLE | [Shopping Cart]() | Python | Shopping cart server infrastructure with crdt, a Dynamo implemantation and fault tolerance | 18.1 |
+| SGI | []() | JS | Hot air balloon racing game in ThreeJS | 19.8 |
+| SGI | []() | JS | Recreation of the half life 1 test chamber in ThreeJS | 19.6 |
+| SGI | []() | JS | Small room scene inspired by portal in ThreeJS | 19.7 | 
 | AI | [Focus](https://github.com/Tonevanda/IA/tree/main/proj1) | Python | Focus board game with several bot difficulty settings | 19.5 |
 | AI | [League of Legends Match Prediction](https://github.com/Tonevanda/IA/tree/main/proj2) | Python |	Prediction of League of Legends matches using several AI models | 20.0 |
 | COMP | 	[Java-- Compiler](https://github.com/Tonevanda/Compilers/tree/master/proj) | Java | Compiler for a subset language of Java called Java-- | 20.0 |
