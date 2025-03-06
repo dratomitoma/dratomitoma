@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a portuguese Informatics Students with a love for game development
+I'm a portuguese Informatics Student with a love for game development
 </div>
 
 <div align="center">
